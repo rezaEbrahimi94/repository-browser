@@ -1,4 +1,4 @@
-## Project Overview
+# Repository browser
 
 This project integrates a robust backend API built with Laravel and a dynamic frontend interface using Next.js. The backend serves as a RESTful API, handling data transactions and business logic, while the frontend provides an interactive user interface, making data consumption and display seamless for the users.
 
